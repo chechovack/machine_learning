@@ -1,5 +1,5 @@
 # 📊 Machine Learning & Deep Learning Projects  -- PART 1
-This repository contains implementations of various Machine Learning techniques explained and developed in the Advanced AI Bootcamp carried out by the initiative **"Talento Tech"* of the Colombian ICT Ministery in 2024. These techniques included **regression, classification, clustering, dimensionality reduction, hyperparameter optimization, and reinforcement learning**. 
+This repository contains implementations of various Machine Learning techniques explained and developed in the Advanced AI Bootcamp carried out by the initiative *"Talento Tech"* of the Colombian ICT Ministery in 2024. These techniques included **regression, classification, clustering, dimensionality reduction, hyperparameter optimization, and reinforcement learning**. 
 
 ## 🚀 **PROJECT HIGHLIGHTS**  
 
