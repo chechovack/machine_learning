@@ -40,10 +40,6 @@ This repository contains implementations of various Machine Learning techniques 
 - XGBoost outperformed traditional ML models in structured data problems.  
 - Reinforcement Learning agents successfully trained for basic game environments.  
 
-## 🔥 **Future Improvements**  
-- Implement deep learning models with CNNs & LSTMs.  
-- Fine-tune reinforcement learning algorithms for complex tasks.  
-- Deploy models as APIs using **Flask** or **FastAPI**.  
 
 ## 📬 **Connect With Me**  
 🔗 [LinkedIn](https://linkedin.com/in/yourname) | 🖥️ [GitHub](https://github.com/your-username)  
